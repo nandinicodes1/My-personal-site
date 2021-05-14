@@ -1,2 +1,3 @@
-This is my personal site with not so many informations.
-It is just to keep it simple and clean.
+Hello Everyone
+Hope you all are safe.
+This is a simple personal website created using html and css only.
